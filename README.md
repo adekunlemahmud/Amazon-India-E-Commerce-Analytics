@@ -30,20 +30,19 @@ Power BI • DAX • Data modeling • Visualization design • KPI analysis •
 
 ## 🖼️ Screenshots
 
-**Overview Page**
-
-<img width="767" height="428" alt="overview" src="https://github.com/user-attachments/assets/ed318e8a-236f-44e2-a7f3-95806744ca4a" />
+<img width="750" height="457" alt="overview" src="https://github.com/user-attachments/assets/ed318e8a-236f-44e2-a7f3-95806744ca4a" />
 
 
-**Products Page**
-<img width="853" height="477" alt="products" src="https://github.com/user-attachments/assets/94c565c2-ae6d-4a5a-89e4-2d322cc1e467" />
+<img width="750" height="457" alt="products" src="https://github.com/user-attachments/assets/50f6e644-3cb1-482d-8e10-463e2ef3f036" />
 
-**Orders Page**
-<img width="858" height="475" alt="orders" src="https://github.com/user-attachments/assets/1cffc725-b45c-4413-832f-873e1613f183" />
+
+
+
+<img width="750" height="457" alt="orders" src="https://github.com/user-attachments/assets/1cffc725-b45c-4413-832f-873e1613f183" />
 
 
 
 ## 🧑‍💻 Author
 
 **Adekunle Mahmud**
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINK)
+[LinkedIn Profile]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/mahmud-adekunle-0649a7198/))
